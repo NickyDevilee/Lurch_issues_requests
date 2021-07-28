@@ -13,8 +13,8 @@ Een duidelijke uitleg van de bug hier.
 **Datum en tijd**
 Noteer hier de datum en tijd van wanneer de bug voorkwam
 
-**Versie (indien van toepassing)**
-Noteer hier het #versie-nummer
+**Versie**
+Noteer hier het #versie-nummer, kan helemaal onderaan de pagina gevonden worden.
 
 **Reproduceren van de bug**
 Noteer hier de stappen om de bug te reproduceren:
